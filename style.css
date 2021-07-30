@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    font-family: Roboto, sans-serif;
+}
+
+.box{
+    background-color: FFFFFF;
+    width: 1440px ;
+    height: 566px;
+    text-align: center;    
+}
+
+.principal-title{
+    color: #3F3D56;
+    font-size: 37px;
+    margin-bottom: 31px;
+    margin-top: 68px;   
+}
+
+
+.text-box{
+    color: #323730;
+    font-size: 14px;
+    margin-bottom:6px ;
+    margin-right: 475px;
+}
+#email{
+    background: #FFFFFF;
+    border: 1px solid #ABB3A8;
+    Height: 47px;
+    width: 515px;
+    margin-bottom: 39px;
+}
+
+#password{
+    background: #FFFFFF;
+    border: 1px solid #ABB3A8;
+    Height: 47px;
+    width: 515px;
+    margin-bottom: 27px;
+
+}
+.acess{
+    margin-bottom: 31px; 
+}
+
+#connect{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #ABB3A8;
+    margin-bottom: 30px;  
+}
+
+.text-connect{
+    font-size: 14px;
+    color: #323730;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    margin-right: 8px;
+}
+.text-reset{
+    font-size: 14px;
+    color: #1DB9E0;
+    margin-left: 199px;
+}
+.button-enter{
+    background-color: #3F3D56;
+    Width: 514px;
+    height: 47px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500px;
+    margin-bottom: 32px;
+    transition-duration: 250ms ;
+}
+.button-enter:hover{
+    background-color: transparent;
+    color: #3F3D56;
+    
+    
+}
+
+.text-register{
+    font-size: 14px;
+    color: #323730;
+    margin-bottom: 78px;
+}
+
